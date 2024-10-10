@@ -1,0 +1,9 @@
+api/node_modules/
+
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
